@@ -45,8 +45,10 @@ ul{
 }
 
 .googleLogo{
-	padding-left: 415px;
+	padding-left: 475px;
 	padding-top: 180px;
+	height: 150px;
+	width: 500px;
 }
 
 /*#voiceLogo img{
