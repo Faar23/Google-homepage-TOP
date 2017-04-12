@@ -1,0 +1,134 @@
+.Gmail{
+	/*text-align: right;*/
+	font-family: Arial, sans-serif;
+	float: right;
+	padding-left: 40px;
+	padding-top: 10px;
+}
+
+.Images{
+	font-family: Arial, sans-serif;
+	float: right;
+	padding-left: 40px;
+	padding-top: 10px;
+}
+
+.googleAppsSymbol img{
+height: 40px;
+width: 40px;
+float: right;
+padding-left: 40px;
+padding-right: 40px;
+}
+
+.button{
+	height: 40px;
+    width: 100px;
+    background-color:#327cf2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    float: right;
+}
+
+ul{
+	list-style-type: none;
+	line-height: 25px;
+}
+
+.header{
+	float: right;
+}
+
+.googleLogo{
+	padding-left: 415px;
+	padding-top: 180px;
+}
+
+/*#voiceLogo img{
+	height: 50px;
+	width: 40px;
+	padding-left: 650px;
+}
+
+#voiceLogo{
+width: 40px;
+
+}*/
+
+.searchBar{
+	padding-left: 390px;
+	padding-bottom: 25px;
+}
+
+#search{
+	height: 50px;
+	width: 700px;
+}
+
+button{
+	height: 40px;
+	width:160px;
+	font-size: 15px;
+	border: none;
+	background-color: #f8f8f8;
+	font-weight: bold;
+	color: #818387;
+}
+
+.row{
+	padding-left: 580px;
+}
+
+footer{
+position: relative;
+}
+
+.leftList li{
+display: inline;
+}
+
+.rightList li{
+	display: inline;
+}
+
+.fourRightButtons{
+	padding-left: 920px;
+}
+
+.firstThreeButtons, .fourRightButtons{
+  /*height: 50px;*/
+  /*border: 1px solid red;*/
+  margin-right: 10px;
+  float: left;
+  padding-top: 130px;
+
+}
+
+.firstThreeButtons{
+
+}
+
+.Advertisment{
+	padding-right: 10px;
+}
+
+.Business{
+	padding-right: 10px;
+}
+
+.privacy{
+	padding-right: 10px;
+}
+
+.settings{
+padding-left: 10px;
+padding-right: 10px;
+}
+
+
+
